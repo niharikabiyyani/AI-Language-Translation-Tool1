@@ -27,7 +27,7 @@ An AI-powered language translation application built using Python and Gradio. It
 - Gradio
 - Deep Translator
 - MyMemory Translation Service
-
+![AI Language Translation Tool](translation-tool-demo.png)
 ## 📂 Project Structure
 
 ```text
