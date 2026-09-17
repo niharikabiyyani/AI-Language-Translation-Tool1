@@ -21,13 +21,14 @@ An AI-powered language translation application built using Python and Gradio. It
 - Hindi
 - Telugu
 
+![AI Language Translation Tool](translation-tool-demo.png)
+
 ## 🛠️ Technologies Used
 
 - Python
 - Gradio
 - Deep Translator
 - MyMemory Translation Service
-![AI Language Translation Tool](translation-tool-demo.png)
 ## 📂 Project Structure
 
 ```text
