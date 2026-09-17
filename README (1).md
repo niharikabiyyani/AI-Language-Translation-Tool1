@@ -20,9 +20,9 @@ An AI-powered language translation application built using Python and Gradio. It
 - Italian
 - Hindi
 - Telugu
+## 🖼️ Project Demo
 
 ![AI Language Translation Tool](translation-tool-demo.png)
-
 ## 🛠️ Technologies Used
 
 - Python
